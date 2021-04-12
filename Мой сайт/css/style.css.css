@@ -1,0 +1,21 @@
+.massage{
+border: 5px solid #898c89;
+padding:25px;
+}
+
+.F1{
+ border: 5px solid 	#898c89;
+ padding-bottom: 25px 
+}
+
+.button:hover{
+ border: 4px solid black
+}
+
+.button{
+	border: 2px solid black
+}
+
+.body{
+background-image:url(img/img5.jpg);	
+}
